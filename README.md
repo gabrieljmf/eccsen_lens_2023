@@ -2,16 +2,22 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 ## Getting Started
 
-First, run the development server:
+Install the pnpm package manager,
 
 ```bash
-npm run dev
-# or
-yarn dev
-# or
+npm i -g pnpm
+```
+
+And install the project dependencies,
+
+```bash
+pnpm i
+```
+
+Next, run `app` in development mode,
+
+```bash
 pnpm dev
-# or
-bun dev
 ```
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.

@@ -12,7 +12,14 @@
     "@lens-protocol/client": "^2.0.0-alpha.21",
     "next": "14.0.1",
     "react": "^18",
-    "react-dom": "^18"
+    "react-dom": "^18",
+    "react-hook-form": "^7.45.1",
+    "react-i18next": "^13.0.2",
+    "@heroicons/react": "v1",
+    "@next/font": "^13.4.9",
+    "clsx": "^1.1.1",
+    "zod": "^3.21.4",
+    "@headlessui/react": "^1.7.15"
   },
   "devDependencies": {
     "@types/node": "^20",
